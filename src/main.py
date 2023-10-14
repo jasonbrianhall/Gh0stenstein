@@ -78,7 +78,7 @@ def main():
     oldTime = 0. #time of previous frame
     pygame.mixer.init()
     #pygame.mixer.music.load("MuseUprising.mp3")
-    pygame.mixer.music.load("pinky_bite.mp3")
+    pygame.mixer.music.load("apocalypse-128378.mp3")
     pygame.mixer.music.play(-1)
     pinky_bite = pygame.mixer.Sound("pinky_bite.ogg")
     size = w, h = 640,480
